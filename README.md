@@ -21,7 +21,7 @@ For example:
 1. Select "Documentation" -> "Security" in the main menu
 1. Click on GET/gethomedata in the menu tree on the left 
 1. Press the "Try it out" button in the right area
-1. Click the "execute /gethomedata" button
+1. Press the "execute /gethomedata" button
 
 Now you will find your SecureID in the "Server response" area under the section "cameras". It is located in the "vpn_url" - see the following screenshot.
 
