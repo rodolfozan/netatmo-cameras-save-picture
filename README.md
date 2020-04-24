@@ -25,5 +25,5 @@ For example:
 
 Now you will find your SecureID in the "Server response" area under the section "cameras". It is located in the "vpn_url" - see the following screenshot.
 
-xx
+![NA SecureID](https://station.cyberninja.de/na-api/screen-na-secureid.png)
 
