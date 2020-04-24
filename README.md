@@ -6,7 +6,7 @@ A simple PHP Script for saving pictures from Netatmo cameras to a specific folde
 
 ### Configuration:
 
-Please enter the IP Adress of your camera, your Netatmo SecureID and the directory name where you wish to save the pictures in the "Constants" section
+Please enter the IP Adress of your camera, your Netatmo SecureID and the directory name (write access required) where you wish to save the pictures in the "Constants" section
 
 For example:
 
