@@ -25,5 +25,5 @@ For example:
 
 Now you will find your SecureID in the "Server response" area under the section "cameras". It is located in the "vpn_url" - see the following screenshot.
 
-![NA SecureID](https://station.wetter-beuren.de/na-api/screen-na-dev-secureid.png)
+![NA SecureID](https://console.wetter-beuren.de/na-api/screen-na-dev-secureid.png)
 
